@@ -1,0 +1,3 @@
+include ':aartest'
+include ':app'
+rootProject.name = "sampleTest"
